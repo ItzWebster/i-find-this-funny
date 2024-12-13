@@ -1,5 +1,5 @@
 # Helpers
-[Goos](https://github.com/MrSerge01) - Helping on Top.gg support.
-[Useraaname](https://github.com/userandaname) - Proof PNGs.
-[Iakzs](https://github.com/iakzs) - This repository's entire contents.
-[Koopa](https://github.com/KoopaCode) - Being with us and giving information.
+[@goos.exe](https://github.com/MrSerge01) - Helping on Top.gg support.
+[@userandaname](https://github.com/userandaname) - Providing proof PNGs.
+[@iakzs](https://github.com/iakzs) - This repository's entire contents.
+[@KoopaCode](https://github.com/KoopaCode) - Being with us and giving information.
